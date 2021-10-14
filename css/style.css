@@ -1,0 +1,9 @@
+
+body {
+  background: black;
+  --color-text: #fff;
+  --color-link-hover: #fff;
+}
+.content {
+overflow: hidden;
+}
